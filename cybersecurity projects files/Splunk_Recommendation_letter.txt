@@ -1,0 +1,39 @@
+Edhereveno Emmanuel Daniels
+SIWES Intern
+Cybersecurity, College of Science and Computing
+University of Benin
+Benin City, Edo State
+27 September 2025
+
+To:
+The Director, ICT Unit
+University of Benin
+Benin City, Edo State
+
+Subject: Recommendation to Incorporate Splunk for Security Monitoring and ICT Efficiency
+
+Dear Sir,
+
+I respectfully write to recommend the integration of Splunk Enterprise into the University’s ICT operations. This recommendation is based on my observations during my SIWES training and the ongoing security challenges affecting our systems prior to and during my placement.
+
+The University’s infrastructure has experienced a range of security incidents, including Distributed Denial of Service (DDoS) attempts, repeated brute-force login trials, phishing campaigns targeting staff and students, and periodic unauthorized access attempts. These events demonstrate the need for centralized, intelligent log analysis and monitoring to detect, investigate, and mitigate threats quickly.
+
+Splunk, as a Security Information and Event Management (SIEM) platform, can help address these challenges by providing the following benefits:
+
+1. Centralized Log Management — Aggregates logs from servers, applications, and network devices into a single searchable platform.
+2. Real-Time Threat Detection — Generates alerts for suspicious activities such as failed logins, abnormal traffic spikes indicative of DDoS, and mass phishing indicators.
+3. Faster Incident Response — Reduces the time required to investigate incidents by enabling quick correlation of events and automated alerting.
+4. Proactive Defense and Reporting — Provides dashboards and periodic reports that support informed decision-making, audit readiness, and compliance with ICT governance standards.
+
+Given the recurring nature of the attacks we have experienced, I recommend that the ICT Unit consider a pilot deployment of Splunk to monitor critical university systems (web servers, authentication systems, mail gateways, and core network devices). A phased rollout—starting with log collection from high-value systems and progressing to broader coverage—will allow the ICT team to measure impact and refine alerting rules before full adoption.
+
+I am available to provide a demonstration, draft a proposed pilot plan, or assist with initial configuration if the Directorate wishes to explore this recommendation further.
+
+Thank you for your time and consideration.
+
+Yours faithfully,
+
+Edhereveno Emmanuel Daniels
+SIWES Intern
+Cybersecurity, College of Science and Computing
+University of Benin
