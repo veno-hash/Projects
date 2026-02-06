@@ -14,7 +14,6 @@ I am passionate about improving system security, reducing risks, and responding 
 - Incident Response (Scenario-based simulations)
 - Defensive Patching and System Hardening
 - Website & Application Security Assessment
-- Linux & Networking Fundamentals
 
 ## Projects & Experience
 
